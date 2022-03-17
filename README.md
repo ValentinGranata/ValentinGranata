@@ -5,4 +5,8 @@
 <p>📋 | Html developer</p>
 <p>📐 | Css developer</p>
 
-[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/ThreeWhi/Gangs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=Gangs&theme=tokyonight" />
+</a> -->
