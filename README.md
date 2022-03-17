@@ -6,7 +6,7 @@
 <p>📐 | Css developer</p>
 
 [![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[⠀]()
+[⠀](https://github.com/ThreeWhi)
 [![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
 
 <!-- <a href="https://github.com/ThreeWhi/Gangs">
