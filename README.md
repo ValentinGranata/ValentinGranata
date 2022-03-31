@@ -2,10 +2,10 @@
 [![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
 
 <a href="https://github.com/ThreeWhi/ThreeWhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=TroyClient-Official&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=ThreeWhi&theme=tokyonight" />
 </a>
 <a href="https://github.com/ThreeWhi/TangerineMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YumaHisai&repo=MacBansSystem&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=TangerineMC&theme=tokyonight" />
 </a>
 <br></br>
 <p align="center">
