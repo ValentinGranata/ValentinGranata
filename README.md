@@ -23,29 +23,6 @@
 </p>
 <p align="center">════════════════════════════════════════════════════════════════════════════════════</p>
 
-<p align="center">
-    <a href="https://t.me/ThreeWhi">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://discordapp.com/users/699724453549965372">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-</p>
-
-<div>
-  <a href="https://github.com/YumaHisai/">
-    <img height="350" src="https://i.imgur.com/OUXal4M.png">
-  </a>
-  ⠀⠀⠀
-  <a href="https://github.com/SpeedersCoders">⠀⠀⠀
-    <img height="140" src="https://i.imgur.com/Fpll68w.png">
-  </a>
-    ⠀⠀⠀
-  <a href="https://github.com/ThreeWhi/">⠀⠀⠀
-    <img height="350" src="https://i.imgur.com/ge0064W.png">
-  </a>
-</div>
-
 <!-- # ThreeWhi
 
 <p>☕️ | Java developer</p>
