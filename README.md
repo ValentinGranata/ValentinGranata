@@ -1,11 +1,11 @@
-[![ThreeWhi's Profile](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/) 
-[![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
+[![xFedeT's Profile](https://github-readme-stats.vercel.app/api?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/) 
+[![xFedeT's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
 
-<a href="https://github.com/ThreeWhi/ThreeWhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=ThreeWhi&theme=tokyonight" />
+<a href="https://github.com/xFedeT/xFedeT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFedeT&repo=xFedeT&theme=tokyonight" />
 </a>
-<a href="https://github.com/ThreeWhi/TangerineMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=TangerineMC&theme=tokyonight" />
+<a href="https://github.com/xFedeT/TangerineMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFedeT&repo=TangerineMC&theme=tokyonight" />
 </a>
 <br></br>
 <p align="center">
@@ -22,16 +22,16 @@
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-<!-- # ThreeWhi
+<!-- # xFedeT
 
 <p>☕️ | Java developer</p>
 <p>💻 | JavaScript developer</p>
 <p>📋 | Html developer</p>
 <p>📐 | Css developer</p>
 
-[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[⠀](https://github.com/ThreeWhi)
-[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
+[![xFedeT's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFedeT&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[⠀](https://github.com/xFedeT)
+[![xFedeT's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
 
 <div>
   <a href="https://github.com/YumaHisai/">
@@ -42,11 +42,11 @@
     <img height="140" src="https://i.imgur.com/Fpll68w.png">
   </a>
     ⠀⠀⠀
-  <a href="https://github.com/ThreeWhi/">⠀⠀⠀
+  <a href="https://github.com/xFedeT/">⠀⠀⠀
     <img height="350" src="https://i.imgur.com/ge0064W.png">
   </a>
 </div> -->
 
-<!-- <a href="https://github.com/ThreeWhi/Gangs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=Gangs&theme=tokyonight" />
+<!-- <a href="https://github.com/xFedeT/Gangs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFedeT&repo=Gangs&theme=tokyonight" />
 </a> -->
