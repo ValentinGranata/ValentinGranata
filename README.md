@@ -1,8 +1,8 @@
 [![ThreeWhi's Profile](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/) 
 [![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
 
-<a href="https://github.com/ThreeWhi/ThreeWhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=ThreeWhi&theme=tokyonight" />
+<a href="https://github.com/ThreeWhi/AutoFeedLite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=AutoFeedLite&theme=tokyonight" />
 </a>
 <a href="https://github.com/ThreeWhi/TangerineMC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=TangerineMC&theme=tokyonight" />
@@ -20,6 +20,7 @@
 </p>
 <p align="center">
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt"VisualStudioCode" src"https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <!-- # ThreeWhi
