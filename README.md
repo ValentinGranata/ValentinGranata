@@ -1,5 +1,5 @@
-[![ThreeWhi's Profile](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/Granatino/Granatino/) 
-[![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/Granatino/Granatino/)
+[![Granatino's Profile](https://github-readme-stats.vercel.app/api?username=Granatino&theme=tokyonight)](https://github.com/Granatino/Granatino/) 
+[![Granatino's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Granatino&theme=tokyonight)](https://github.com/Granatino/Granatino/)
 
 <a href="https://github.com/Granatino/AutoFeedLite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Granatino&repo=AutoFeedLite&theme=tokyonight" />
@@ -23,16 +23,16 @@
     <img alt"VisualStudioCode" src"https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<!-- # ThreeWhi
+<!-- # Granatino
 
 <p>☕️ | Java developer</p>
 <p>💻 | JavaScript developer</p>
 <p>📋 | Html developer</p>
 <p>📐 | Css developer</p>
 
-[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[⠀](https://github.com/ThreeWhi)
-[![ThreeWhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
+[![Granatino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Granatino&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[⠀](https://github.com/Granatino)
+[![Granatino's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Granatino&theme=tokyonight)](https://github.com/Granatino/Granatino/)
 
 <div>
   <a href="https://github.com/YumaHisai/">
@@ -43,11 +43,11 @@
     <img height="140" src="https://i.imgur.com/Fpll68w.png">
   </a>
     ⠀⠀⠀
-  <a href="https://github.com/ThreeWhi/">⠀⠀⠀
+  <a href="https://github.com/Granatino/">⠀⠀⠀
     <img height="350" src="https://i.imgur.com/ge0064W.png">
   </a>
 </div> -->
 
-<!-- <a href="https://github.com/ThreeWhi/Gangs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=Gangs&theme=tokyonight" />
+<!-- <a href="https://github.com/Granatino/Gangs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Granatino&repo=Gangs&theme=tokyonight" />
 </a> -->
